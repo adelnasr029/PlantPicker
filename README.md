@@ -10,20 +10,20 @@ provides users with personalized plant recommendations based on specific criteri
 
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at some of my work examples:
 
-**Chairs store co website:** https://github.com/adelnasr029/chairs-store-website
+[Comfort Chair co](https://chairs-store-website.onrender.com/)
 
-**Kitten Store website:** https://github.com/adelnasr029/kitten-store-demo
+ [My Portfolio](https://adelabdulazeem.netlify.app/)
 
-**Pizza restaurant website:** https://github.com/adelnasr029/pizza-restaurant-website
+ [StarGazers APOD Web App](https://nasa-picture-every-day.netlify.app/)
 
+ [Hair Salon](https://leviathansalon.netlify.app/)
 
-# React + Vite
+ [Pizzela Restaurant website](https://pizza-restaurant-webdemo.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ [PlantPicker Project](https://github.com/adelnasr029/PlantPicker)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ [ChatApp](https://github.com/adelnasr029/chatApp)
+ 
+ [Task Tracker](https://github.com/adelnasr029/task-tracker)
